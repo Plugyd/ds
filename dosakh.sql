@@ -116,6 +116,7 @@ CREATE TABLE `users` (
 -- Дамп данных таблицы `users`
 --
 
+
 INSERT INTO `users` (`id`, `name`, `surname`, `email`, `password`, `token`, `auth`, `img`, `datereg`, `login`) VALUES
 (1, 'Vladisav', 'Rodionov', 'vladislav.for@mail.ru', '$2y$10$8KMSEN5g8D69TqCYudA2veFTp9.2xgi08noyj7wcU0DM/yPxcizra', NULL, 1, '', '15.06.2019 11:07:59', 'Plugy'),
 (2, 'Mdms', 'Nilotin', 'Nilotin@mail.ru', '$2y$10$7RL4UYdVkSvQHU1L2BTiIet1ZaSU1upF.KMufCCJqJ26I/2ehPmUS', '8227', 0, '', '16.06.2019 5:19:49', 'Workout'),
