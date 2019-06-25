@@ -3,7 +3,7 @@
 <div class="collection-group">
 <div class="top-collection-group">
         <div class="name-collections">Категории</div>
-        <input type="text" class="group-search" id="autocomplete" placeholder="Название сообщества...">
+        <input type="text" class="group-search" id="autocomplete" placeholder="Название категории...">
     </div>
 
 
