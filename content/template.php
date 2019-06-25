@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/jquery-ui.min.css">
     <link rel="stylesheet" href="/css/prism.css">
+    <link rel="stylesheet" href="/css/artplayer.css">
+    <script src="/js/artplayer.js"></script>
 
 </head>
 
@@ -48,7 +50,7 @@
     <script src="/js/prism.js"></script>
     <script src="/js/jquery-ui.min.js"></script>
     <script src="/js/script.js"></script>
-    <script src="https://kit.fontawesome.com/bd2177d70d.js"></script>
+    
     <!-- <script src='https://www.google.com/recaptcha/api.js?hl=ru'></script> -->
     <!-- Todo Google recaptha and kit font awesome -->
 </body>

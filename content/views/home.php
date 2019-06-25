@@ -25,7 +25,8 @@
                 <img src="<?=$groups['img']?>" alt="">
             </div>
             <div class="group-descriptions">
-                <a href="/group/<?=$groups['id']?>" class="group-name"><?=$groups['name']?></a>
+                <a href="/videos/5" class="group-name"><?=$groups['name']?></a>
+
             </div> 
         </div>
     </div>

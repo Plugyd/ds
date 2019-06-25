@@ -168,12 +168,12 @@ header {
     border: 1px solid #15181d;
 }
 
-.top-collection-group {
+.top-collection-group.flex {
     width: 100%;
     display: flex;
     align-items: center;
-    background: #282c34;
-    /* border: 3px solid #21252b; */
+    flex-direction: column;
+    margin: 15px;
 }
 
 input.group-search {
@@ -688,6 +688,18 @@ div#reg {
 
 .like-active {
     color: #F44336;
+}
+.desc-collections {
+    width: 100%;
+    color: white;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.top-collection-group {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
 }
 
 div#activation {
